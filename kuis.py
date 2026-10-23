@@ -7,7 +7,11 @@ print("a. Python")
 print("b. HTML")
 print("c. CSS")
 
-jawaban = input("Jawaban kamu (a/b/c): ").lower()
+jawaban = input("Jawaban kamu (a/b/c): ").strip().lower()
+
+if jawaban not in ["a", "b", "c"]:
+    print("Input tidak valid! Pilih a, b, atau c.")
+    exit()
 
 if jawaban == "a":
     print("Benar! ")
