@@ -1,2 +1,1 @@
-# tugas-2-
-tugas 2 rekayasa prangkat lunak
+Tugas 2 Rekayasa Perangkat Lunak - versi develop
