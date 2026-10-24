@@ -1,6 +1,7 @@
 # tugas-2-
-tugas 2 rekayasa prangkat lunak
- 
+
+Tugas 2 Rekayasa Perangkat Lunak
+
 Perubahan README khusus branch feature untuk pengujian konflik.
 
-Perubahan README khusus branch develop untuk pengujian konflik. develop
+Perubahan README khusus branch develop untuk pengujian konflik.
