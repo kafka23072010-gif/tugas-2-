@@ -7,6 +7,7 @@ print("a. Python")
 print("b. HTML")
 print("c. CSS")
 
+ HEAD
 jawaban = input("Jawaban kamu (a/b/c): ").strip().lower()
 
 if jawaban not in ["a", "b", "c"]:
@@ -26,3 +27,10 @@ if skor == 100:
 else:
     print("Semangat belajar lagi, Kafka!")
 print("Terima kasih sudah mengikuti kuis!")
+jawaban = input("Jawaban kamu (a/b/c): ").lower()
+
+if jawaban == "a":
+    print("Benar! ")
+else:
+    print("Belum tepat. Jawabannya adalah Python.")
+develop
